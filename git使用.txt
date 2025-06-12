@@ -1,0 +1,4 @@
+git clone https://github.com/medsadw/hello.git
+git add .
+git commit -m "third commit"
+git push -u origin main
